@@ -8,7 +8,7 @@
 
 - Roblox ID & Discord integration panel
 - Sleek, dark-glassmorphism UI styled with custom CSS
-  Authentication/API features
+- Authentication/API features
 
 ---
 
